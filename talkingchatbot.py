@@ -1,5 +1,5 @@
 import random
-import texts
+
 import pickle
 import os
 import pyttsx3
